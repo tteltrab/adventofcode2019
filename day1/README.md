@@ -160,3 +160,7 @@ So, for each module mass, calculate its fuel and add it to the total. Then, trea
 This problem uses the same input as Part One above.
 
 ### Answer
+
+> 5046772
+
+is the total fuel required when incorporating the additional fuel needed to enabling carrying the mass of the fuel itself.
